@@ -3,22 +3,7 @@
 using namespace std;
 int main(){
     cout<<"LOGIN DETAILS"<<endl;
-// char surbhi;
-// char SURBHI3605;
-// char abcatew;
-// char name;
-//     char username;
-//     char email_id;
-// string name;
-// string surbhi;
-//     cout<<"\nNAME: ";
-//     cin>>name = "Surbhi";
-//     if(name == surbhi){
-//         string email_id;
-//         string abc;
-//         cout<<"EMAIL ID.: ";
-//         cin>>email_id;
-//         if(email_id == abc){
+
             string username;
             string hehe = "surbhi3605";
             cout<<"ENTER USERNAME: ";
@@ -45,15 +30,4 @@ int main(){
             }
 
         
-    //     }
-    //     else{
-    //             cout<<"ACCESS DENIED"<<endl;
-    //         }
-
-
-    // }
-    // else{
-    //             cout<<"ACCESS DENIED"<<endl;
-    //         }
-    //         return 0;
    }
